@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-s.name         = 'Mapper@Kocsistem'
+s.name         = 'Mapper@Oneframe'
 s.version      = '1.0.5'
 s.summary      = 'KocSistem Mapper framework'
 s.description  = 'A description of Mapper Library'
